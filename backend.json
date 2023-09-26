@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "RUaEfRDY97VAQfgfl2NxnpIgyJF3": {
+      "type": "object",
+      "properties": {
+        "age": {
+          "type": "string",
+          "pattern": "^\\d+$"
+        },
+        "bio": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri"
+        },
+        "mood": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": ["age", "bio", "image", "mood", "name"]
+    },
+    "rlaxtB7fygeng2RU3e2Tm882iDy2": {
+      "type": "object",
+      "properties": {
+        "age": {
+          "type": "string",
+          "pattern": "^\\d+$"
+        },
+        "bio": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri"
+        },
+        "mood": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": ["age", "bio", "image", "mood", "name"]
+    }
+  }
+}
