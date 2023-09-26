@@ -8,26 +8,55 @@
                 }
             },
             "assets": {
-                "64ff978be26e6b7417675895": {
+                "650c7694f1ece6c499e677b0": {
                     "externalStorageType": "GCS",
-                    "_id": "64ff978be26e6b7417675895",
-                    "size": "53612",
+                    "_id": "650c7694f1ece6c499e677b0",
+                    "size": "28239",
                     "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/64ff8fb3ba87c6ec87748b8f/getasset/64ff978be26e6b7417675895",
-                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64fdc4e40473c165b33b3b60/projects/64ff8fb3ba87c6ec87748b8f/assets/64ff978be26e6b7417675895",
-                    "createdAt": "2023-09-11T22:41:15.978Z",
-                    "updatedAt": "2023-09-11T22:41:15.978Z",
+                    "originalname": "\u8c61.png",
+                    "backendURI": "/project/6509c69ca0b8d40984469a4b/getasset/650c7694f1ece6c499e677b0",
+                    "name": "\u8c61.png",
+                    "externalName": "users/64fdc4e40473c165b33b3b60/projects/6509c69ca0b8d40984469a4b/assets/650c7694f1ece6c499e677b0",
+                    "createdAt": "2023-09-21T17:00:04.647Z",
+                    "updatedAt": "2023-09-21T17:00:04.647Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fdc4e40473c165b33b3b60/projects/64ff8fb3ba87c6ec87748b8f/assets/64ff978be26e6b7417675895?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230920%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230920T025240Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=05584a51f9284ca73d43b5025392816eaedc3e97fbbbaeb40ba2d33c416cf8ee1ad121169c5281ec64867eaddafb953d56bd0305cb220782ca7f3347851932c2fe7e139b52e9573fd7f8ca82b1a27503f89032e1d7564aba3e49bc781938e00521139b123aee0505f78bcbf54ec528b48df5ae65de7c361d1038e1cf12caa9edef80f7bed103e1a84381b155b96144aeb3a8b94a6ad3f3981d932bcedbdca8a1878669df7f78e788f6f3a13ce127ca08b8e5caa8e7862318b9cc438433628009bcdd2f831f9ca8aa4195b502d0d03b114eccc086745119a837aa85045d9a6f4fd289f86a6acb1381b93b600d509d1136a8777c8cab09f5e2328a7c73afa57ccd",
-                    "signedUrlExpirationTime": 1695351160833
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fdc4e40473c165b33b3b60/projects/6509c69ca0b8d40984469a4b/assets/650c7694f1ece6c499e677b0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230925T204646Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2cbacb592437f54c1d813b40fe40d77a7457fdca9a375369f8f69f93729dad2af127e5aec959e7858e0aaa07a44585a66d854e1fc67361c72d09d9cc84400103597e1e27f74d6dc9c2cc2672288b9242bc743c8368fa7369b4be640b01b7740002e6de779b3e9839a984b3bacf197acf0745c79f995b86d69c6335370650c31a5ece99c7ff29e3b615d870fbe1ee9e8d0c1ddbb05c26cd28f745b1ac653815f8d5e0cfe4362e5bf91eb2c03fe4a5ff29b6dfe901e2ae7ddf7abe4118f717036a057f4bdd2cccbd523edee057b4a29323bc175bd7e396c035e607c97bdeaf5d17c0a7bea7a3122e2f6b8d3b294cf60337b8d6b4e95671a498642cbb4c8183fbd7",
+                    "signedUrlExpirationTime": 1695847606221
                 }
             },
             "backendUpgradeVersion": 21,
             "blockly": {
-                "9904490e-847b-4da9-a49c-be39447cd22b": {
+                "de5c22b5-a5ee-4eba-b210-b5e44ef94e7b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "35348b55-2ba6-48bc-ae4e-bcabb8eab014": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "adc19a4c-3c5f-4741-a132-53b606c5d829": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "6509c69ca0b8d40984469a4b": {},
+                "732846f7-45fb-4d24-bfc7-7ed475fd277e": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "4c74c619-462f-4c25-89f8-4433a1bfcd8d": {
                     "xml": "",
                     "permissions": {
                         "android": [
@@ -46,42 +75,34 @@
                             }
                         ]
                     }
-                },
-                "38806840-1041-492b-9211-26347347abb9": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [
-                            "android.permission.CAMERA",
-                            "android.permission.RECORD_AUDIO"
-                        ],
-                        "ios": [
-                            {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
-                                "name": "NSMicrophoneUsageDescription",
-                                "label": "Microphone",
-                                "hint": "Describe why your app uses the microphone."
-                            }
-                        ]
-                    }
                 }
             },
             "categories": [
-                "Books"
+                "Business"
             ],
             "components": {
                 "children": [
-                    "Screen1.9904490e-847b-4da9-a49c-be39447cd22b",
-                    "Video Screen.38806840-1041-492b-9211-26347347abb9"
+                    {
+                        "id": "732846f7-45fb-4d24-bfc7-7ed475fd277e"
+                    },
+                    {
+                        "id": "adc19a4c-3c5f-4741-a132-53b606c5d829"
+                    },
+                    {
+                        "id": "de5c22b5-a5ee-4eba-b210-b5e44ef94e7b"
+                    },
+                    {
+                        "id": "35348b55-2ba6-48bc-ae4e-bcabb8eab014"
+                    },
+                    {
+                        "id": "4c74c619-462f-4c25-89f8-4433a1bfcd8d"
+                    }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Profile APp",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -93,8 +114,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDsMEOlr5IaJ1TvszxACEX_M78juS1x3oU",
+                "firebaseDatabaseURL": "https://assignment3-fd411-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -113,10 +134,7 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -142,8 +160,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDsMEOlr5IaJ1TvszxACEX_M78juS1x3oU",
+                "firebaseDatabaseURL": "https://assignment3-fd411-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -162,10 +180,7 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -192,7 +207,23 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "8529672c-efc7-4fe8-90a7-b411e29612e9": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "adc19a4c-3c5f-4741-a132-53b606c5d829"
+                },
+                "a221e004-6e36-472b-aa59-2d10e4e96c27": {
+                    "scope": "STORED",
+                    "name": "EmailText",
+                    "screenId": "adc19a4c-3c5f-4741-a132-53b606c5d829"
+                },
+                "a9009d11-84cb-4b3f-bc90-519ad28765ef": {
+                    "scope": "STORED",
+                    "name": "PasswordText",
+                    "screenId": "adc19a4c-3c5f-4741-a132-53b606c5d829"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
